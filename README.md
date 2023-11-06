@@ -1,4 +1,4 @@
-![Screenshot 2023-11-06 135018](https://github.com/Manikandanrag/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849491/395269ac-56cf-4dec-aa4b-ab48bcc5dd47)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+(https://github.com/Manikandanrag/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849491/395269ac-56cf-4dec-aa4b-ab48bcc5dd47)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
 
@@ -42,7 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![ex 1 2023-11-06 135018.png…]()
+![Screenshot 2023-11-06 135018](https://github.com/Manikandanrag/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849491/c0a1f68c-5475-4f6b-b486-d26f21bf13d5)
+
 
 
 ## RESULT
